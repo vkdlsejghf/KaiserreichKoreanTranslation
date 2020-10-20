@@ -1,7 +1,7 @@
 ﻿l_english:
 
 ###Focus Localization###
-iceland_tree:0 "아이슬란드 중점계통도"
+iceland_tree:0 "아이슬란드 중점 계통도"
 
 ### Leaders ###
 POLITICS_STEFAN_JOHANN_STEFANSSON_DESC:0 "Economic decline brought on by the collapse of the British Empire propelled Stefán Jóhann Stefánsson to the forefront of Icelandic politics. He has grand designs for the Icelandic economy that will require strict financial discipline and deep reform. To accomplish this goal, he aggressively seeks partners abroad and hesitates to sever existing ties."
@@ -189,7 +189,7 @@ ICE_failing_economy:0 "추락하는 경제"
 ICE_failing_economy_desc:0 "As Black Monday hits, the situation grows ever direr"
 ICE_Personal_Union:0 "덴마크-아이슬란드 동군연합"
 ICE_Personal_Union_desc:0 "After the Weltkrieg ended in 1921, the governments of Iceland and Denmark met to discuss the creation of the nation of Iceland. After brief negotiations, it was agreed that Iceland would be recognized as a sovereign nation held under a personal union between Denmark and Iceland. In exchange, Denmark would hold control over Icelandic foreign affairs and be responsible for the defence of Iceland if they are attacked."
-ICE_Guttoslagurinn:0 "Gúttóslagurinn Riot"
+ICE_Guttoslagurinn:0 "구토슬라귀린 폭동"
 ICE_Guttoslagurinn_desc:0 "During a city council meeting on the 9th of November 1932, the council debated pulling the plug on the City Work-Creation Scheme. News of this reached the population who arrived in droves to riot in front of the building demanding that the Scheme remains in place due to the fact that the economic recession still continued to afflict Iceland. This riot became known as Gúttóslagurinn and ensured that the CWCS remains in effect for the near future of the country."
 ICE_CWCS:0 "The City Work-Creation Scheme"
 ICE_CWCS_desc:0 "Devised as a way to help bolster the economy, the City Work-Creation Scheme provides government-funded civil projects to get the people back to work"
